@@ -3,7 +3,6 @@ _metadata":
   weight: 1000
   description: "Data for Dublin"
   is_active: true
-  sites: [{"slug": "dublin"}]
   schema: ""
 
 vlans:

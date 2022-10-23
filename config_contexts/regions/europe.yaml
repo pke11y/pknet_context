@@ -3,7 +3,6 @@ _metadata":
   weight: 1000
   description: "Data for Europe"
   is_active: true
-  regions: [{"slug": "europe"}]
   schema: ""
 
 management_interface: "mgmt0"
