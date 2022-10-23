@@ -4,7 +4,6 @@
         "weight": 1000,
         "description": "Data for Dublin",
         "is_active": true,
-        "regions": [{"slug": "dublin"}],
         "schema": "Config Context Schema 1"
     },
     "acl": {
