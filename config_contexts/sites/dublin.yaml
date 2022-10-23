@@ -1,0 +1,16 @@
+_metadata":
+  name: "Dublin devices"
+  weight: 1000
+  description: "Data for Dublin"
+  is_active: true
+  schema: ""
+
+vlans:
+  99:
+    name: "VOICE"
+  1111:
+    name: "DATA"
+  1999:
+    name: "OFFICE_INFRA"
+  2000:
+    name: "GUEST"
