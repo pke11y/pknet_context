@@ -9,8 +9,8 @@ management_interface: "mgmt0"
 logging:
   source_intf: "mgmt0"
   hosts:
-    - "172.16.9.100"
-    - "172.16.9.101"
+    - "10.16.9.100"
+    - "10.16.9.101"
 dns:
   source_intf: "mgmt0"
   servers:
@@ -19,8 +19,8 @@ dns:
 ntp:
   source_intf: "mgmt0"
   servers:
-    - "172.16.10.22"
-    - "172.16.10.33"
+    - "10.16.10.22"
+    - "10.16.10.33"
 aaa_servers:
   - name: "Aaa1"
     type: "radius"
